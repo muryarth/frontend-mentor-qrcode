@@ -23,7 +23,7 @@ export default function Card() {
             >
               Frontend Mentor
             </a>
-            . Coded by <a href="#">Arthur</a>.
+            . Coded by <a href="https://github.com/muryarth">Arthur</a>.
           </div>
         </div>
       </div>
